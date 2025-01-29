@@ -1,0 +1,14 @@
+{
+  "name": "practicad3js",
+  "version": "1.0.0",
+  "description": "practica de estadia enero 2025",
+  "main": "bin/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldair Yerena",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/d3": "^7.4.3"
+  }
+}

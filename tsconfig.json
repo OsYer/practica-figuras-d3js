@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["dom", "es2017", "esnext"],
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": "bin/js",
+    "declaration": false,
+    "moduleResolution": "node",
+    "experimentalDecorators": false,
+    "skipLibCheck": true
+  }
+}
